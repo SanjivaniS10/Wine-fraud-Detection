@@ -135,10 +135,9 @@ if st.button("Predict"):
 📄 requirements.txt
 
 Example packages:
-![first page](https://github.com/SanjivaniS10/Wine-fraud-Detection/blob/main/snap01.png)
-![second Page](https://github.com/SanjivaniS10/Wine-fraud-Detection/blob/main/Snsp%2002.png)
+![First Page](https://github.com/SanjivaniS10/Wine-fraud-Detection/blob/main/Snsp%2002.png)
 
-
+![Second page](https://github.com/SanjivaniS10/Wine-fraud-Detection/blob/main/snap01.png)
 
 
 streamlit
